@@ -7,7 +7,7 @@ draft: false
 ## [Choose a Theme](https://themes.gohugo.io/)
 ## [Host on Github](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
 
-- details are comming later...
+- details are coming later...
 
 ### references: 
 - <http://nanshu.wang/post/2015-01-31/> 

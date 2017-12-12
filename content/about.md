@@ -30,6 +30,5 @@ draft: false
 ### Contact | 联系方式
 - E-mail : <vicson.sun@outlook.com>
 - Wechat : QQ：`657910416`
-- ![QR_Code](https://github.com/KKSun/image/blob/master/WechatIMG40.jpeg)
 
 
