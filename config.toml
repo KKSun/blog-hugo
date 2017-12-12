@@ -1,0 +1,48 @@
+baseurl = "https://kksun.github.io/myblog/"
+languageCode = "zh-CN"
+title = "sudo KKSun"
+disqusShortname = "kksunsudo"
+canonifyurls = true
+PygmentsCodeFences=true
+Paginate = 10
+PaginatePath  = "page"
+
+[params]
+    photo = "/img/photo.jpg"
+    sidebartitle = "VicsonSun的美食街"
+    sidebartagline = "清蒸Python|油炸Golang 红烧Java|凉拌Scheme cook by Shlf"
+    highlightstyle="rainbow"
+
+[[menu.main]]
+    pre = "<i class='fa fa-road'></i>"
+    name = "About"
+    url = "/about"
+
+[[menu.main]]
+    pre = "<i class='fa fa-road'></i>"
+    name = "Blog"
+    url = "/posts"
+
+[[menu.footer]]
+    name = "Theme | Designed by Red Lounge"
+    url = "https://github.com/tmaiaroto/hugo-redlounge"
+
+[[menu.social]]
+    pre = "<i class='fa fa-mail-forward'></i>"
+    url = "mailto:vicson.sun@outlook.com"
+    identifier = "mail-forward"
+    weight = 100
+
+
+[[menu.social]]
+    pre = "<i class='fa fa-facebook'></i>"
+    url = "https://www.facebook.com/sun.vicson.9"
+    identifier = "facebook"
+    weight = -8
+
+
+[[menu.social]]
+    pre = "<i class='fa fa-github'></i>"
+    url = "https://github.com/kksun"
+    identifier = "github"
+    weight = -9
