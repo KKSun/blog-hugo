@@ -1,7 +1,7 @@
 baseurl = "https://kksun.github.io/"
 languageCode = "zh-CN"
 title = "sudo KKSun"
-disqusShortname = "kksunsudo"
+disqusShortname = "kksun"
 canonifyurls = true
 PygmentsCodeFences=true
 Paginate = 10
