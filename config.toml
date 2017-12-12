@@ -1,4 +1,4 @@
-baseurl = "https://kksun.github.io/myblog/"
+baseurl = "https://kksun.github.io/"
 languageCode = "zh-CN"
 title = "sudo KKSun"
 disqusShortname = "kksunsudo"
