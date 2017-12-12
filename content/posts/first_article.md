@@ -2,6 +2,8 @@
 title: "Hugo + Github Pages"
 date: 2017-12-11T20:08:16-05:00
 draft: false
+tags: ["Hugo"]
+catagories: ["blog & tools"]
 ---
 ## [Install Hugo](https://gohugo.io/getting-started/quick-start/)
 ## [Choose a Theme](https://themes.gohugo.io/)

@@ -12,6 +12,10 @@ PaginatePath  = "page"
     sidebartitle = "VicsonSun的美食街"
     sidebartagline = "清蒸Python|油炸Golang 红烧Java|凉拌Scheme cook by Shlf"
     highlightstyle="rainbow"
+    
+[taxonomies]
+	tag = "tags"
+	catagory = "catagories"
 
 [[menu.main]]
     pre = "<i class='fa fa-road'></i>"

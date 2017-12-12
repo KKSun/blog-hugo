@@ -2,6 +2,8 @@
 title: "Hugo + macdown + Terminal"
 date: 2017-12-12T05:04:57-05:00
 draft: false
+tags: ["Hugo"]
+catagories: ["blog & tools"]
 ---
 
 ## need an editor
