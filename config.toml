@@ -29,7 +29,7 @@ PaginatePath  = "page"
 
 [[menu.social]]
     pre = "<i class='fa fa-mail-forward'></i>"
-    url = "mailto:vicson.sun@outlook.com"
+    url = "mailto:hxs593@case.edu"
     identifier = "mail-forward"
     weight = 100
 
