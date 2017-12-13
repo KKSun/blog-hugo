@@ -8,7 +8,7 @@ Paginate = 10
 PaginatePath  = "page"
 
 [params]
-    photo = "/img/photo.jpg"
+    photo = "/img/PG5Fs9I.png"
     sidebartitle = "VicsonSun的美食街"
     sidebartagline = "清蒸Python|油炸Golang 红烧Java|凉拌Scheme cook by Shlf"
     highlightstyle="rainbow"
