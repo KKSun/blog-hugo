@@ -6,11 +6,19 @@ tags: ["Hugo"]
 catagories: ["blog & tools"]
 ---
 
-## need an editor
-Hugo is easy to use and macdown is enough to write.
+## Editor
+- Hugo is easy to use
+- macdown is enough for me to write md files
+- macdown is free :-p
 
-## macdown have terminal tools
-macdown terminal tool can directly open macdown from terminal, which is the only thing I need to start writing and deploy server.
+## Terminal tool
+- macdown terminal tool can directly open macdown files from terminal
+- Then the terminal is the only thing I need to start writing and deploy
 
-## what I need
-what I need in the future, is a cloud pic-bed.
+## In the future
+- I will try to write a image hoster. 
+- Acturally I don't have to, but I would like to take this as a kind of practice.
+
+### About macdown
+- <https://macdown.uranusjr.com/>
+
