@@ -30,10 +30,10 @@ Actually, I don't feel those themes on Hugo official website are of good look. S
 	- in  `/myblog-hugo`  direction
 		- `git submodule add git@github.com:your-name/your-name.github.io.git public`	
 		- copy this file [deploy.sh](https://github.com/KKSun/blog-hugo/blob/master/deploy.sh) into  `/myblog-hugo`  as well.
-	- `chmod +x deploy.sh`
-		- to give permission to run this deploy script.
-	- `./deploy.sh`  
-		- to publish any change you make about your blog with one click.
+		 
+- __Remember__ to give permission to run this script. This script can publish any change you that you make about your blog with one click.
+	- `chmod +x deploy.sh` 
+	- `./deploy.sh`
 
 
 ### references: 
