@@ -49,4 +49,10 @@ PaginatePath  = "page"
     pre = "<i class='fa fa-github'></i>"
     url = "https://github.com/kksun"
     identifier = "github"
+    weight = -10
+
+[[menu.social]]
+    pre = "<i class='fa fa-linkedin'></i>"
+    url = "https://www.linkedin.com/in/helanfeng-sun-2a9075148/"
+    identifier = "linkedin"
     weight = -9
