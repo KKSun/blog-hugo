@@ -2,7 +2,7 @@
 title: "Remote Linux Command"
 date: 2018-01-30T19:21:45-05:00
 draft: false
-tags:["Linux"]
+tags: ["Linux"]
 ---
 
 I have to work on Linux Server remotely these days. So I would like to take this as a note of commands on manipulating remote files.
