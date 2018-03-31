@@ -1,5 +1,5 @@
 ---
-title: "Tensorflowonmac"
+title: "Try Tensorflow on mac"
 date: 2018-03-30T16:33:37-04:00
 draft: false
 tags: ["Tensorflow"]
@@ -42,4 +42,13 @@ pip3 install --upgrade virtualenv
 
 ### Later on we will play with docker
 
-to be continue...
+learning docker ...
+
+### Output sample after 400 iterations
+
+##### style:
+![style](/Users/brencharlson/Documents/Python-workspace/neural-style/examples/2-style2.jpg)
+##### input:
+![input](/Users/brencharlson/Documents/Python-workspace/neural-style/examples/photo.jpg)
+##### output:
+![input](/Users/brencharlson/Documents/Python-workspace/neural-style/examples/newpic.jpg)

@@ -1,5 +1,5 @@
 ---
-title: "Delete_mysql"
+title: "Delete & Reinstall Mysql on Mac"
 date: 2018-03-07T02:14:36-05:00
 draft: false
 tags: ["mac"]
