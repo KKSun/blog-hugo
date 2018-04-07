@@ -47,8 +47,8 @@ learning docker ...
 ### Output sample after 400 iterations
 
 ##### style:
-![style](/Users/brencharlson/Documents/Python-workspace/neural-style/examples/2-style2.jpg)
+![style](https://tuchuang-1256147041.cos.na-toronto.myqcloud.com/2-style2.jpg)
 ##### input:
-![input](/Users/brencharlson/Documents/Python-workspace/neural-style/examples/photo.jpg)
+![input](https://tuchuang-1256147041.cos.na-toronto.myqcloud.com/photo.jpg)
 ##### output:
-![input](/Users/brencharlson/Documents/Python-workspace/neural-style/examples/newpic.jpg)
+![output](https://tuchuang-1256147041.cos.na-toronto.myqcloud.com/newpic.jpg)
