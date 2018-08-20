@@ -1,5 +1,5 @@
 ---
-title: "Workonnumpy"
+title: "Work on Pandas, Numpy and Matplotlib"
 date: 2018-08-20T03:47:50-04:00
 draft: false
 ---
