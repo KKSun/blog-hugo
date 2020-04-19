@@ -1,5 +1,5 @@
 ---
-title: "Fix_catalina"
+title: "Fix MacOS 10.15 Clang Link"
 date: 2020-04-18T22:20:57-04:00
 draft: false
 tags: ["Mac"]
