@@ -46,3 +46,7 @@ export PATH=$OPENSSL_PATH/bin:$PATH
 export SDKROOT="$(xcrun --show-sdk-path)"
 ```
 
+#### ref
+
+[https://github.com/rbenv/rbenv/issues/1247#issuecomment-626241187](https://github.com/rbenv/rbenv/issues/1247#issuecomment-626241187)
+[https://zhile.io/2018/09/26/macOS-10.14-install-sdk-headers.html](https://zhile.io/2018/09/26/macOS-10.14-install-sdk-headers.html)
